@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle package-foreman",
+        "command": "package-foreman:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "package-foreman",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "package-foreman:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
