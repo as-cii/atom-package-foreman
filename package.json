@@ -3,16 +3,17 @@
   "main": "./lib/package-foreman",
   "version": "0.0.0",
   "description": "A short description of your package",
-  "keywords": [
-  ],
-  "activationCommands": {
-    "atom-workspace": "package-foreman:toggle"
-  },
+  "keywords": [],
   "repository": "https://github.com/atom/package-foreman",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "chokidar": "^1.4.3"
+  },
+  "devDependencies": {
+    "babel-preset-es2015-node": "^5.0.3",
+    "babel-preset-stage-0": "^6.5.0"
   }
 }
