@@ -8,5 +8,3 @@ What this package does:
 - Generate a package manifest
 - Keep the package manifest up-to-date as packages are installed/uninstalled
 - Automatically install packages in the manifest not already installed
-
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
