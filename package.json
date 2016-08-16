@@ -1,7 +1,7 @@
 {
   "name": "package-foreman",
   "main": "./lib/package-foreman",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "Automagically save and sync installed packages",
   "keywords": [],
   "repository": "https://github.com/joshuaegclark/atom-package-foreman",
